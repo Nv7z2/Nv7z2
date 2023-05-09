@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Post-Apo RPG game (C#)<br>🌱 I’m currently learning: C#<br>⚡ Fun fact: Spongebob is amazing
+🔭 I’m currently working on: Post-Apo RPG game (C#)<br>🌱 I’m currently learning: C# & PHP<br>⚡ Fun fact: Spongebob is amazing
 
 
 ## 🌐 Socials:
